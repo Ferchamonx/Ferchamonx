@@ -1,3 +1,3 @@
 # Personal
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ferchamon.)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferchamonx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
