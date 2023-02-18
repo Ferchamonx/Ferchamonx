@@ -1,5 +1,7 @@
 # ¡Hola! Soy Mon y este es mi perfil de github, Abajo hay mas informacion sobre mi.
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ferchamon.&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ferchamon.&redirect=true)
+
 Lenguajes que suelo utilizar:
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
