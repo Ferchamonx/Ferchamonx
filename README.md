@@ -12,7 +12,8 @@ Lenguajes que suelo utilizar:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
 </p>
-Actualmente estoy aprendiendo: <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
+Actualmente estoy aprendiendo: 
+<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
 
 Actualmente trabajando en: https://ferchamonx.github.io
 
