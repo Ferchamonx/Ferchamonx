@@ -12,6 +12,5 @@ Actualmente estoy aprendiendo: <img alt="Python" src="https://img.shields.io/bad
 
 Actualmente trabajando en: https://ferchamonx.github.io
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ferchamonx&theme=dark" width="48%" >
-<img src="https://github-readme-stats.vercel.app/api?username=kritika-pattalam&show_icons=true&theme=gotham" alt="kritikapattalam" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ferchamonx&show_icons=true&theme=gotham" alt="kritikapattalam" width="45%" align="right"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferchamonx&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
