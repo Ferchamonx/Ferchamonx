@@ -21,5 +21,15 @@ Actualmente trabajando en: https://ferchamonx.github.io y en un Bot 👀
 <img src="https://lanyard.cnrad.dev/api/719422383382986783" />
 </div>
 
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=LyricalString%239999&color=blue&style=for-the-badge)](https://discord.com/users/155411408752869377)
+
+
+
+<div align="left">
+  <a href="https://discord.com/users/719422383382986783">
+    <img src="https://lanyard-profile-readme.vercel.app/api/719422383382986783" align="left" height="205">
+  </a>
+</div>
+
 <img src="https://github-readme-stats.vercel.app/api?username=ferchamonx&show_icons=true&theme=gotham" alt="ferchamonx" width="45%" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferchamonx&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
