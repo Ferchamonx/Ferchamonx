@@ -17,10 +17,8 @@ Actualmente estoy aprendiendo:
 
 Actualmente trabajando en: https://ferchamonx.github.io y en un Bot 👀
 
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=LyricalString%239999&color=blue&style=for-the-badge)](https://discord.com/users/155411408752869377)
-
 <div align="left">
-  <a href="https://discord.com/users/155411408752869377">
+  <a href="https://discord.com/users/719422383382986783">
     <img src="https://lanyard-profile-readme.vercel.app/api/155411408752869377?animated=true" align="left" height="205">
   </a>
 </div>
