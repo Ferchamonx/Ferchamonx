@@ -17,7 +17,9 @@ Actualmente estoy aprendiendo:
 
 Actualmente trabajando en: https://ferchamonx.github.io y en un Bot 👀
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/719422383382986783)](https://discord.com/users/719422383382986783)
+<div>
+<img src="https://lanyard.cnrad.dev/api/719422383382986783" />
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ferchamonx&show_icons=true&theme=gotham" alt="ferchamonx" width="45%" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferchamonx&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
