@@ -17,9 +17,9 @@ Actualmente estoy aprendiendo:
 
 Actualmente trabajando en: https://ferchamonx.github.io y en un Bot 👀
 
-<div align="left">
+<div>
   <a href="https://discord.com/users/719422383382986783">
-    <img src="https://lanyard-profile-readme.vercel.app/api/719422383382986783?animated=true" align="left" height="205">
+    <img src="https://lanyard.cnrad.dev/api/719422383382986783" align="left" height="205">
   </a>
 </div>
 
