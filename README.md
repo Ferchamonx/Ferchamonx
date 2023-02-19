@@ -17,9 +17,7 @@ Actualmente estoy aprendiendo:
 
 Actualmente trabajando en: https://ferchamonx.github.io y en un Bot 👀
 
-
-
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/719422383382986783)](https://discord.com/users/719422383382986783)
 
 <div align="left">
   <a href="https://discord.com/users/719422383382986783">
