@@ -4,7 +4,6 @@ Canciones/Grupos que me gustan: (Aveces se Bugea)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ferchamon.&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ferchamon.&redirect=true)
 
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/719422383382986783)](https://discord.com/users/719422383382986783)
 
 Lenguajes que suelo utilizar:
@@ -20,5 +19,5 @@ Actualmente estoy aprendiendo:
 
 Actualmente trabajando en: https://ferchamonx.github.io y en un Bot 👀
 
-<img src="https://github-readme-stats.vercel.app/api?username=ferchamonx&show_icons=true&theme=gotham" alt="ferchamonx" width="45%" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferchamonx&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ferchamonx&show_icons=true&theme=gotham" alt="ferchamonx" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferchamonx&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" align="right" alt="ovi"/>
