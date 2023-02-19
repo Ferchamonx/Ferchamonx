@@ -17,11 +17,7 @@ Actualmente estoy aprendiendo:
 
 Actualmente trabajando en: https://ferchamonx.github.io y en un Bot 👀
 
-<div>
-<img src="https://lanyard.cnrad.dev/api/719422383382986783" />
-</div>
 
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=LyricalString%239999&color=blue&style=for-the-badge)](https://discord.com/users/155411408752869377)
 
 
 
