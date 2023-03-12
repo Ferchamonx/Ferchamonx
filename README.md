@@ -19,5 +19,5 @@ Actualmente estoy aprendiendo:
 
 Actualmente trabajando en: https://ferchamonx.github.io y en un Bot de discord, info al md para invitarlo XD 👀
 
-<img src="https://github-readme-stats.vercel.app/api?username=ferchamonx&show_icons=true&theme=gotham" alt="ferchamonx" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferchamonx&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MonMetal&show_icons=true&theme=gotham" alt="MonMetal" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MonMetal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
